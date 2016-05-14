@@ -1,0 +1,45 @@
+{
+  "name": "tcptools",
+  "version": "1.0.4",
+  "description": "## simple demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "wangyinchuan"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.12.0"
+  },
+  "_id": "tcptools@1.0.3",
+  "_shasum": "2b844c7e57898a08e7bae22e0e76b8a37330dce3",
+  "_from": "tcptools@>=1.0.1 <2.0.0",
+  "_npmVersion": "3.8.3",
+  "_nodeVersion": "5.10.1",
+  "_npmUser": {
+    "name": "456wyc",
+    "email": "456wyc@163.com"
+  },
+  "dist": {
+    "shasum": "2b844c7e57898a08e7bae22e0e76b8a37330dce3",
+    "size": 5560,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/tcptools/download/tcptools-1.0.3.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "456wyc",
+      "email": "456wyc@163.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/tcptools-1.0.3.tgz_1463073054084_0.37909986777231097"
+  },
+  "directories": {},
+  "publish_time": 1463073054611,
+  "_cnpm_publish_time": 1463073054611,
+  "_resolved": "http://registry.npm.taobao.org/tcptools/download/tcptools-1.0.3.tgz"
+}
